@@ -50,4 +50,4 @@ res.innerHTML=cpolá, <strong>$(nome)</strong>! É um grande prazer te conhecer!
 
 </body>
 
-</html>
+</html>a
